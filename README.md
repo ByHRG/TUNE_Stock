@@ -1,4 +1,4 @@
-## SHOPIFY 재고 조회 스크립트
+## TUNE 재고 조회
 
 Shopify Storefront GraphQL API를 사용하여 특정 상품의 전체 재고(`totalInventory`)와 변형별 재고(`quantityAvailable`)를 간편하게 조회
 
